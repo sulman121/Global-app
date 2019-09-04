@@ -1,0 +1,59 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-08-21T20:47:07.951Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9289847385,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GUIStepDefination.pre_testing()"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Valid user and Password",
+        "description": "",
+        "id": "user-login-into-the-global-app;valid-user-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9436718,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is at home page",
+            "match": {
+              "location": "GUIStepDefination.user_is_at_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6916665436,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user able to enter valid username and password",
+            "match": {
+              "location": "GUIStepDefination.user_able_to_enter_valid_user_name_and_password()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "user Login into the Global App",
+    "description": "",
+    "id": "user-login-into-the-global-app",
+    "keyword": "Feature",
+    "uri": "file:Login.feature",
+    "tags": []
+  }
+]

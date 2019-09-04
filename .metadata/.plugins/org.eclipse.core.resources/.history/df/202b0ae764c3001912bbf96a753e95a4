@@ -1,0 +1,72 @@
+package Steps;
+
+import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.BeforeClass;
+
+import ExcelReader.ReadExcel;
+import Util.Lib;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+public class GUIStepDefination extends Lib {
+
+	
+	WebDriver driver;
+	ReadExcel Readexcel = new ReadExcel("C:\\Users\\ca2543\\EQRS GLOBAL APP\\GLOBAL_APP\\TEST.xlsx");
+	Actions ac;
+	Select select;
+
+	@BeforeClass
+	public void pre_testing() throws IOException {
+
+		if (ReadProperties("Browser").equals("Chrome")) {
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+		} else if (ReadProperties("browser").equals("FireFox"))
+			WebDriverManager.firefoxdriver().setup();
+		driver = new FirefoxDriver();
+
+			driver.get(ReadProperties("URL"));
+			driver.manage().window().maximize();
+			driver.manage().deleteAllCookies();
+			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+			
+		}
+	
+	
+	@Given("user is at home page")
+	public void user_is_at_home_page() {
+    driver.getTitle();
+	
+	}
+
+	@Then("user able to enter valid username and password")
+	public void user_able_to_enter_valid_user_name_and_password() throws Exception {
+		driver.findElement(By.xpath(ReadProperties("user_name"))).sendKeys(Readexcel.getCellData("sheet1", "user_name", 2));
+	  driver.findElement(By.xpath(ReadProperties("password"))).sendKeys(Readexcel.getCellData("sheet1", "password", 2));
+	   driver.findElement(By.xpath(ReadProperties(ReadProperties("check_box")))).click();
+	   driver.findElement(By.xpath(ReadProperties("signin_button"))).click();
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	}
+

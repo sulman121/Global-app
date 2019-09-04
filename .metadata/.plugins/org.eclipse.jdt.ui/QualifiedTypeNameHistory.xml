@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cucumber.api.java.Before"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.ie.InternetExplorerDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+<fullyQualifiedTypeName name="Steps.GUIStepDefination"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.WebDriverWait"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.ExpectedConditions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+</qualifiedTypeNameHistroy>

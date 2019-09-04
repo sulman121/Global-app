@@ -1,0 +1,10 @@
+Browser=Internet Explorer
+URL=http://dev-app-eqrs.hcqis.org:8080/globalapp/login
+
+username=//input[@id='okta-signin-username']
+
+password=//input[@id='okta-signin-password']
+
+checkbox=//input[@id='input41']
+
+signinbutton=//input[@id='okta-signin-submit']

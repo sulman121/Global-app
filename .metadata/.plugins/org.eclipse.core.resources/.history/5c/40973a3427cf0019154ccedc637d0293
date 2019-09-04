@@ -1,0 +1,50 @@
+package API_Test_Package;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.http.Method;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class Login_API_Test {
+	
+	
+	
+	
+	@Test
+	 void login() {
+		
+	//DEFINE URL
+	RestAssured.baseURI="https://reqres.in/api/users?page";
+	
+	//REQUEST OBJECT
+	RequestSpecification httprequest=RestAssured.given();
+	
+	//REQUEST OBJECT
+	Response response=httprequest.request(Method.GET,"2");
+	
+	//Getting the Response Body
+   String responsebody= response.getBody().asString();
+	System.out.println("This is the Response Body"+responsebody);
+	
+	
+	//Getting the Status Code
+	int statuscode=response.getStatusCode();
+	System.out.println(statuscode);
+	Assert.assertEquals(statuscode, 200);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+
+}

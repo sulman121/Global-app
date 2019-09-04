@@ -1,0 +1,1017 @@
+2019-08-20 10:57:41,055 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-20 10:58:46,062 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\pom.xml
+2019-08-20 10:58:47,396 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDDFRAMEWORK:GLOBAL_APP:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\pom.xml.
+2019-08-20 10:58:48,335 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GLOBAL_APP/src/main/java
+2019-08-20 10:58:48,342 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GLOBAL_APP/src/test/java
+2019-08-20 10:58:49,210 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-08-20 10:58:50,590 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:58:50,590 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 10:58:50,593 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:58:50,593 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\test\resources
+2019-08-20 10:59:14,220 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:59:14,220 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 10:59:14,222 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:59:14,222 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\test\resources
+2019-08-20 10:59:43,481 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:59:43,481 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 10:59:43,485 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 10:59:43,497 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:00:02,214 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:02,215 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:00:02,217 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:02,221 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:00:10,996 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:10,996 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:00:11,014 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:11,015 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:00:17,875 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:17,875 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:00:17,877 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:17,878 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:00:40,454 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:40,454 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:00:40,456 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:00:40,461 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:01:04,823 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:01:04,823 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:01:04,826 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:01:04,826 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:01:31,180 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:01:31,180 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:01:31,181 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:01:31,182 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-20 11:02:54,126 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:02:54,127 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:02:54,129 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:02:54,130 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-20 11:03:15,543 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:15,543 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:03:15,550 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:15,552 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:03:16,605 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:16,605 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:03:16,610 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:16,610 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:03:30,039 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:30,039 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:03:30,040 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:30,042 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:03:46,634 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:46,634 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:03:46,635 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:03:46,637 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:04:20,060 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:04:20,061 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:04:20,062 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:04:20,063 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:08:57,939 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:08:57,940 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:08:57,945 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:08:57,946 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:09:13,093 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:09:13,094 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:09:13,096 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:09:13,097 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:09:29,093 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:09:29,093 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:09:29,094 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:09:29,095 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:11:40,413 [Worker-15: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>\r\n   \r\n-<d... @19:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>\r\n   \r\n-<d... @19:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1309) ~[plexus-utils-3.2.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	... 26 common frames omitted
+2019-08-20 11:11:41,757 [Worker-0: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.400.v20190505-1655.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>\r\n   \r\n-<d... @19:4) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>\r\n   \r\n-<d... @19:4) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1309) ~[plexus-utils-3.2.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2235) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	... 26 common frames omitted
+2019-08-20 11:13:07,089 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDDFRAMEWORK:GLOBAL_APP:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\pom.xml.
+2019-08-20 11:13:07,645 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:13:07,645 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:13:07,647 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:13:07,650 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:13:08,909 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:13:08,910 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:13:08,920 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:13:08,921 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:15:51,421 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDDFRAMEWORK:GLOBAL_APP:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\pom.xml.
+2019-08-20 11:15:52,177 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:15:52,177 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:15:52,179 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:15:52,181 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:15:54,575 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:15:54,575 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:15:54,577 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:15:54,578 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:17:44,972 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:17:44,973 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:17:44,977 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:17:44,979 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:17:53,759 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:17:53,760 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:17:53,762 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:17:53,762 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:18:27,112 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:18:27,113 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:18:27,114 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:18:27,115 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:21:09,304 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:21:09,305 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:21:09,309 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:21:09,310 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:23:30,134 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:23:30,134 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:23:30,134 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:23:30,134 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:38:00,438 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:38:00,439 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:38:00,442 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:38:00,442 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 11:38:23,332 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:38:23,332 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:38:23,333 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:38:23,333 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:41:33,790 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:41:33,790 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:41:33,790 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:41:33,790 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:41:59,510 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:41:59,511 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:41:59,511 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:41:59,511 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:46:42,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:46:42,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:46:42,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:46:42,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:47:12,518 [Worker-0: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:47:12,518 [Worker-0: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:47:12,518 [Worker-0: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:47:12,522 [Worker-0: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:47:55,450 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:47:55,451 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:47:55,453 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:47:55,455 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:48:15,093 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:48:15,093 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:48:15,094 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:48:15,094 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 11:52:48,152 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:52:48,152 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 11:52:48,153 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 11:52:48,157 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:01:23,073 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-20 12:01:28,586 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:01:28,588 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:01:28,591 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:01:28,598 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:05:34,271 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:05:34,273 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:05:34,277 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:05:34,285 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:07:52,299 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:07:52,300 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:07:52,302 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:07:52,303 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:08:14,358 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:08:14,358 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:08:14,360 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:08:14,362 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:08:49,810 [Worker-4: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:08:49,810 [Worker-4: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:08:49,812 [Worker-4: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:08:49,813 [Worker-4: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:09:35,296 [Worker-12: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:09:35,296 [Worker-12: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:09:35,299 [Worker-12: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:09:35,300 [Worker-12: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:10:19,124 [Worker-0: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:10:19,124 [Worker-0: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:10:19,125 [Worker-0: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:10:19,127 [Worker-0: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:15:44,882 [Worker-3: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:15:44,883 [Worker-3: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:15:44,886 [Worker-3: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:15:44,887 [Worker-3: Launching Login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:17:10,935 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:17:10,935 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:17:10,938 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:17:10,939 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-20 12:18:58,937 [Worker-18: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:18:58,938 [Worker-18: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:18:58,939 [Worker-18: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:18:58,941 [Worker-18: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:19:34,096 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:19:34,096 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:19:34,098 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:19:34,099 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:20:06,123 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:20:06,124 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:20:06,125 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:20:06,126 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:21:48,761 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:21:48,762 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:21:48,763 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:21:48,765 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:23:04,938 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:23:04,939 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:23:04,941 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:23:04,941 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:23:23,660 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:23:23,661 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:23:23,662 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:23:23,663 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:26:37,722 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-20 12:26:50,044 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:26:50,045 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:26:50,050 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:26:50,062 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:30:06,337 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:30:06,337 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:30:06,339 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:30:06,343 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:31:23,144 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:31:23,144 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:31:23,146 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:31:23,146 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:35:29,385 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-20 12:35:39,249 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:35:39,250 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:35:39,252 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:35:39,258 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:37:25,692 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:37:25,692 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:37:25,694 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:37:25,698 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:37:26,762 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:37:26,762 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:37:26,763 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:37:26,763 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:39:13,051 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:39:13,053 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:39:13,055 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:39:13,058 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:40:18,332 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:18,333 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:40:18,334 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:18,336 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:40:47,058 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:47,059 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:40:47,060 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:47,062 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:40:56,677 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:56,677 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:40:56,678 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:40:56,693 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 12:42:01,731 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:42:01,731 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:42:01,735 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:42:01,736 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 12:42:35,506 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:42:35,506 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 12:42:35,508 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 12:42:35,509 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-20 15:53:01,503 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-20 15:53:07,823 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 15:53:07,823 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-20 15:53:07,828 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 15:53:07,834 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 10:24:43,697 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-21 10:24:51,845 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:24:51,845 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 10:24:51,848 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:24:51,853 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 10:42:39,348 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:42:39,349 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 10:42:39,352 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:42:39,359 [Worker-15: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 10:56:01,481 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:56:01,481 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 10:56:01,483 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:56:01,485 [Worker-17: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 10:59:12,244 [Worker-22: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:59:12,244 [Worker-22: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 10:59:12,247 [Worker-22: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 10:59:12,248 [Worker-22: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 11:01:05,874 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:01:05,874 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 11:01:05,876 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:01:05,877 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 11:02:59,885 [Worker-21: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:02:59,886 [Worker-21: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 11:02:59,889 [Worker-21: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:02:59,890 [Worker-21: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 11:03:13,364 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:03:13,364 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 11:03:13,366 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:03:13,367 [Worker-23: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 11:15:34,874 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:15:34,874 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 11:15:34,880 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 11:15:34,881 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 12:02:06,663 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-21 12:03:21,247 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:03:21,247 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:03:21,250 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:03:21,257 [Worker-3: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 12:04:02,877 [Worker-6: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:04:02,877 [Worker-6: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:04:02,879 [Worker-6: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:04:02,885 [Worker-6: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 12:05:01,966 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:05:01,966 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:05:01,968 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:05:01,970 [Worker-5: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 12:06:23,800 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:06:23,801 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:06:23,802 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:06:23,804 [Worker-2: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 12:08:21,041 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:08:21,046 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:08:21,047 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:08:21,052 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 12:09:32,718 [Worker-4: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:09:32,718 [Worker-4: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 12:09:32,720 [Worker-4: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 12:09:32,720 [Worker-4: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 13:56:48,661 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-21 13:59:19,269 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 13:59:19,270 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 13:59:19,273 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 13:59:19,280 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 14:02:49,153 [Worker-13: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:02:49,154 [Worker-13: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:02:49,156 [Worker-13: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:02:49,172 [Worker-13: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 14:05:26,555 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:05:26,555 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:05:26,558 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:05:26,559 [Worker-12: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 14:10:29,255 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:10:29,256 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:10:29,257 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:10:29,258 [Worker-1: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 14:15:40,723 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:15:40,724 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:15:40,725 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:15:40,727 [Worker-20: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 14:21:27,320 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lookingglass.Cyber.Solution:LookingGlass.Cyber.Solution:0.0.1-SNAPSHOT @ C:\Users\ca2543\Desktop\Hassan-Project-for-the-LookingGlass-Company-master\pom.xml.
+2019-08-21 14:21:28,165 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LookingGlass.Cyber.Solution/src/main/java
+2019-08-21 14:21:28,166 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LookingGlass.Cyber.Solution/src/test/java
+2019-08-21 14:21:28,167 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LookingGlass.Cyber.Solution/src/test/resources
+2019-08-21 14:21:28,563 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-08-21 14:21:29,747 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:29,747 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\Desktop\Hassan-Project-for-the-LookingGlass-Company-master\src\main\resources
+2019-08-21 14:21:29,748 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:29,749 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-21 14:21:37,530 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:37,530 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:21:37,532 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:37,533 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-21 14:21:42,914 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:42,914 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 14:21:42,917 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 14:21:42,918 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 15:48:07,423 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-21 16:42:08,866 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:42:08,866 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 16:42:08,876 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:42:08,876 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 16:43:53,752 [Worker-28: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:43:53,753 [Worker-28: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 16:43:53,755 [Worker-28: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:43:53,761 [Worker-28: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 16:45:47,078 [Worker-26: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:45:47,078 [Worker-26: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 16:45:47,081 [Worker-26: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:45:47,082 [Worker-26: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 16:46:32,998 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:46:32,999 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 16:46:33,000 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:46:33,001 [Worker-30: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-21 16:47:06,115 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:47:06,115 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-21 16:47:06,116 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-21 16:47:06,116 [Worker-31: Launching DefaultRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-22 13:14:15,382 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-22 13:14:21,805 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 13:14:21,806 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-22 13:14:21,810 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 13:14:21,818 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-22 13:14:22,796 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 13:14:22,796 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\Desktop\Hassan-Project-for-the-LookingGlass-Company-master\src\main\resources
+2019-08-22 13:14:22,798 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-22 13:14:22,799 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-23 10:37:23,540 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-08-23 10:39:01,781 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\pom.xml
+2019-08-23 10:39:03,027 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PageObjectModel:Global_App_POM:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\pom.xml.
+2019-08-23 10:39:04,709 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Global_App_POM/src/main/java
+2019-08-23 10:39:04,717 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Global_App_POM/src/test/java
+2019-08-23 10:39:04,873 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2019-08-23 10:39:06,261 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,261 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-08-23 10:39:06,264 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,270 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-08-23 10:39:06,364 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,364 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:39:06,366 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,366 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:39:06,653 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,654 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\Desktop\Hassan-Project-for-the-LookingGlass-Company-master\src\main\resources
+2019-08-23 10:39:06,655 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:06,656 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-23 10:39:26,142 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:26,142 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:39:26,144 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:39:26,145 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:40:02,232 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:02,232 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:40:02,233 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:02,234 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:40:16,204 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:16,204 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:40:16,206 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:16,206 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:40:59,726 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:59,726 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:40:59,728 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:40:59,728 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:41:17,847 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:41:17,849 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:41:17,855 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:41:17,856 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:41:43,571 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:41:43,571 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:41:43,576 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:41:43,592 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:42:06,432 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:06,433 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:42:06,435 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:06,436 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:42:19,090 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:19,090 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:42:19,097 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:19,097 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:42:53,531 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:53,531 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:42:53,533 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:42:53,533 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:43:08,350 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:08,350 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:43:08,352 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:08,352 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:43:27,929 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:27,929 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:43:27,933 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:27,933 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\test\resources
+2019-08-23 10:43:56,016 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:56,016 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:43:56,017 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:43:56,022 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-23 10:44:18,455 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:44:18,455 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:44:18,469 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:44:18,475 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-23 10:44:50,437 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:44:50,438 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:44:50,439 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:44:50,440 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-23 10:46:25,069 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PageObjectModel:Global_App_POM:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\pom.xml.
+2019-08-23 10:46:25,818 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:25,818 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:46:25,819 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:25,820 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-23 10:46:27,372 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:27,373 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:46:27,374 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:27,375 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-23 10:46:44,852 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:44,852 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:46:44,853 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:46:44,855 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-23 10:49:36,221 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:49:36,221 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\Global_App_POM\src\main\resources
+2019-08-23 10:49:36,221 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-23 10:49:36,221 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-26 09:13:25,155 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-09-04 09:59:29,865 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-09-04 10:00:43,695 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ca2543\EQRS GLOBAL APP\API_Testing\pom.xml
+2019-09-04 10:00:45,063 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:API_Testing:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\API_Testing\pom.xml.
+2019-09-04 10:00:45,864 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Testing/src/main/java
+2019-09-04 10:00:45,870 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Testing/src/test/java
+2019-09-04 10:00:46,000 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-09-04 10:00:46,595 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:00:46,595 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\API_Testing\src\main\resources
+2019-09-04 10:00:46,597 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:00:46,598 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\API_Testing\src\test\resources
+2019-09-04 10:00:47,674 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:00:47,674 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\GLOBAL_APP\src\main\resources
+2019-09-04 10:00:47,676 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:00:47,682 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-09-04 10:02:10,527 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml
+2019-09-04 10:02:10,684 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:ApiTesting:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml.
+2019-09-04 10:02:10,788 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiTesting/src/main/java
+2019-09-04 10:02:10,794 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApiTesting/src/test/java
+2019-09-04 10:02:10,874 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-09-04 10:02:11,198 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:02:11,199 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:02:11,200 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:02:11,200 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:04:20,948 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:ApiTesting:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml.
+2019-09-04 10:04:21,892 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.pom
+2019-09-04 10:04:21,927 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.pom
+2019-09-04 10:04:22,510 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-parent/4.0.0/rest-assured-parent-4.0.0.pom
+2019-09-04 10:04:22,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-parent/4.0.0/rest-assured-parent-4.0.0.pom
+2019-09-04 10:04:22,631 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.pom
+2019-09-04 10:04:22,670 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.pom
+2019-09-04 10:04:22,723 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.pom
+2019-09-04 10:04:22,767 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.pom
+2019-09-04 10:04:22,820 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2019-09-04 10:04:22,876 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2019-09-04 10:04:22,931 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2019-09-04 10:04:22,972 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2019-09-04 10:04:23,035 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2019-09-04 10:04:23,081 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2019-09-04 10:04:23,140 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2019-09-04 10:04:23,181 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2019-09-04 10:04:23,578 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.pom
+2019-09-04 10:04:23,612 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.pom
+2019-09-04 10:04:24,101 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-09-04 10:04:24,132 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-09-04 10:04:24,502 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1.pom
+2019-09-04 10:04:24,535 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1.pom
+2019-09-04 10:04:24,783 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.pom
+2019-09-04 10:04:24,817 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.pom
+2019-09-04 10:04:25,184 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0.pom
+2019-09-04 10:04:25,217 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0.pom
+2019-09-04 10:04:25,271 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.pom
+2019-09-04 10:04:25,357 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.pom
+2019-09-04 10:04:25,728 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.pom
+2019-09-04 10:04:25,762 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.pom
+2019-09-04 10:04:26,139 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.pom
+2019-09-04 10:04:26,178 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.pom
+2019-09-04 10:04:26,538 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom
+2019-09-04 10:04:26,582 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom
+2019-09-04 10:04:27,064 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.pom
+2019-09-04 10:04:27,103 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.pom
+2019-09-04 10:04:28,701 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.pom
+2019-09-04 10:04:28,740 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.pom
+2019-09-04 10:04:29,107 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-bundles/2.2.10/jaxb-bundles-2.2.10.pom
+2019-09-04 10:04:29,323 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-bundles/2.2.10/jaxb-bundles-2.2.10.pom
+2019-09-04 10:04:29,925 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-parent/2.2.10/jaxb-parent-2.2.10.pom
+2019-09-04 10:04:29,990 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/mvn/jaxb-parent/2.2.10/jaxb-parent-2.2.10.pom
+2019-09-04 10:04:30,795 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-bom-ext/2.2.10/jaxb-bom-ext-2.2.10.pom
+2019-09-04 10:04:30,832 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-bom-ext/2.2.10/jaxb-bom-ext-2.2.10.pom
+2019-09-04 10:04:31,104 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/glassfish/jaxb/jaxb-bom/2.2.10/jaxb-bom-2.2.10.pom
+2019-09-04 10:04:31,218 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/glassfish/jaxb/jaxb-bom/2.2.10/jaxb-bom-2.2.10.pom
+2019-09-04 10:04:31,233 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:04:31,600 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.pom
+2019-09-04 10:04:31,660 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.pom
+2019-09-04 10:04:32,976 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/sling/15/sling-15.pom
+2019-09-04 10:04:33,061 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/sling/15/sling-15.pom
+2019-09-04 10:04:33,122 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/apache/12/apache-12.pom
+2019-09-04 10:04:33,166 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/apache/12/apache-12.pom
+2019-09-04 10:04:33,478 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1.pom
+2019-09-04 10:04:33,517 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1.pom
+2019-09-04 10:04:34,813 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar
+2019-09-04 10:04:36,447 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar
+2019-09-04 10:04:36,500 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.jar
+2019-09-04 10:04:44,447 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.jar
+2019-09-04 10:04:44,478 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.jar
+2019-09-04 10:04:44,828 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.jar
+2019-09-04 10:04:44,860 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2019-09-04 10:04:46,088 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2019-09-04 10:04:46,119 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2019-09-04 10:04:46,650 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2019-09-04 10:04:46,684 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2019-09-04 10:04:47,067 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2019-09-04 10:04:47,585 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar
+2019-09-04 10:04:47,671 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar
+2019-09-04 10:04:47,993 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-09-04 10:04:48,030 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-09-04 10:04:49,199 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar
+2019-09-04 10:04:49,373 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar
+2019-09-04 10:04:49,747 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar
+2019-09-04 10:04:49,777 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar
+2019-09-04 10:04:50,598 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0.jar
+2019-09-04 10:04:50,681 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0.jar
+2019-09-04 10:04:50,711 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.jar
+2019-09-04 10:04:50,879 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.jar
+2019-09-04 10:04:51,596 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.jar
+2019-09-04 10:04:51,668 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.jar
+2019-09-04 10:04:52,867 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.jar
+2019-09-04 10:04:52,975 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.jar
+2019-09-04 10:04:53,009 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar
+2019-09-04 10:04:53,569 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar
+2019-09-04 10:04:54,481 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar
+2019-09-04 10:04:54,698 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar
+2019-09-04 10:04:55,485 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.jar
+2019-09-04 10:05:01,171 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.jar
+2019-09-04 10:05:02,363 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar
+2019-09-04 10:05:02,646 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar
+2019-09-04 10:05:02,683 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1.jar
+2019-09-04 10:05:02,794 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1.jar
+2019-09-04 10:05:04,035 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:04,036 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:05:04,037 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:04,037 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:05:04,821 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:05:05,087 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:ApiTesting:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml.
+2019-09-04 10:05:05,321 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.pom
+2019-09-04 10:05:05,387 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.pom
+2019-09-04 10:05:05,487 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:05:05,514 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2019-09-04 10:05:05,550 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2019-09-04 10:05:05,580 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2019-09-04 10:05:05,599 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2019-09-04 10:05:05,614 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2019-09-04 10:05:05,647 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2019-09-04 10:05:05,654 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2019-09-04 10:05:05,777 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice-parent/4.1.0/guice-parent-4.1.0.pom
+2019-09-04 10:05:06,908 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-09-04 10:05:06,913 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-09-04 10:05:07,601 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-09-04 10:05:08,327 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0.jar
+2019-09-04 10:05:08,625 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2019-09-04 10:05:08,626 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2019-09-04 10:05:09,275 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2019-09-04 10:05:09,310 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar
+2019-09-04 10:05:09,317 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0.jar
+2019-09-04 10:05:09,335 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0.jar
+2019-09-04 10:05:12,412 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0.jar
+2019-09-04 10:05:13,217 [Worker-4: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0.jar
+2019-09-04 10:05:13,447 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:13,447 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:05:13,449 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:13,449 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:05:13,609 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0-sources.jar
+2019-09-04 10:05:13,906 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:05:13,944 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:13,944 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:05:13,946 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:13,946 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:05:13,950 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0-sources.jar
+2019-09-04 10:05:14,000 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured:4.0.0
+2019-09-04 10:05:14,076 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6-sources.jar
+2019-09-04 10:05:16,766 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6-sources.jar
+2019-09-04 10:05:16,809 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy:2.5.6
+2019-09-04 10:05:16,876 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6-sources.jar
+2019-09-04 10:05:17,021 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6-sources.jar
+2019-09-04 10:05:17,068 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-xml:2.5.6
+2019-09-04 10:05:17,649 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar
+2019-09-04 10:05:18,097 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar
+2019-09-04 10:05:18,136 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.3
+2019-09-04 10:05:18,205 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar
+2019-09-04 10:05:18,483 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar
+2019-09-04 10:05:18,561 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.6
+2019-09-04 10:05:18,628 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2019-09-04 10:05:18,813 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2019-09-04 10:05:18,861 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.9
+2019-09-04 10:05:19,434 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3-sources.jar
+2019-09-04 10:05:19,500 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3-sources.jar
+2019-09-04 10:05:19,540 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpmime:4.5.3
+2019-09-04 10:05:19,924 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1-sources.jar
+2019-09-04 10:05:19,958 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1-sources.jar
+2019-09-04 10:05:19,989 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:2.1
+2019-09-04 10:05:20,833 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1-sources.jar
+2019-09-04 10:05:20,962 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest/2.1/hamcrest-2.1-sources.jar
+2019-09-04 10:05:20,994 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.1
+2019-09-04 10:05:21,361 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1-sources.jar
+2019-09-04 10:05:21,396 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1-sources.jar
+2019-09-04 10:05:21,444 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-library:2.1
+2019-09-04 10:05:21,529 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-sources.jar
+2019-09-04 10:05:21,876 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1-sources.jar
+2019-09-04 10:05:21,920 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ccil.cowan.tagsoup:tagsoup:1.2.1
+2019-09-04 10:05:22,537 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0-sources.jar
+2019-09-04 10:05:22,642 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/json-path/4.0.0/json-path-4.0.0-sources.jar
+2019-09-04 10:05:22,683 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:json-path:4.0.0
+2019-09-04 10:05:22,740 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6-sources.jar
+2019-09-04 10:05:22,883 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6-sources.jar
+2019-09-04 10:05:22,928 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-json:2.5.6
+2019-09-04 10:05:23,430 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0-sources.jar
+2019-09-04 10:05:23,480 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0-sources.jar
+2019-09-04 10:05:23,554 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured-common:4.0.0
+2019-09-04 10:05:24,111 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0-sources.jar
+2019-09-04 10:05:24,176 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0-sources.jar
+2019-09-04 10:05:24,222 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:xml-path:4.0.0
+2019-09-04 10:05:24,288 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
+2019-09-04 10:05:24,627 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
+2019-09-04 10:05:24,660 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.4
+2019-09-04 10:05:25,700 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12-sources.jar
+2019-09-04 10:05:25,959 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12-sources.jar
+2019-09-04 10:05:25,992 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.2.12
+2019-09-04 10:05:27,355 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10-sources.jar
+2019-09-04 10:05:31,335 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10-sources.jar
+2019-09-04 10:05:31,364 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-osgi:2.2.10
+2019-09-04 10:05:31,755 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0-sources.jar
+2019-09-04 10:05:31,790 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0-sources.jar
+2019-09-04 10:05:31,820 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.sling:org.apache.sling.javax.activation:0.1.0
+2019-09-04 10:05:31,887 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2019-09-04 10:05:32,014 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar
+2019-09-04 10:05:32,049 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1.1
+2019-09-04 10:05:32,053 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured:4.0.0
+2019-09-04 10:05:32,056 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy:2.5.6
+2019-09-04 10:05:32,060 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-xml:2.5.6
+2019-09-04 10:05:32,065 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.3
+2019-09-04 10:05:32,069 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.6
+2019-09-04 10:05:32,072 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.9
+2019-09-04 10:05:32,076 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpmime:4.5.3
+2019-09-04 10:05:32,081 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:2.1
+2019-09-04 10:05:32,085 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.1
+2019-09-04 10:05:32,090 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-library:2.1
+2019-09-04 10:05:32,095 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ccil.cowan.tagsoup:tagsoup:1.2.1
+2019-09-04 10:05:32,098 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:json-path:4.0.0
+2019-09-04 10:05:32,104 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-json:2.5.6
+2019-09-04 10:05:32,108 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:rest-assured-common:4.0.0
+2019-09-04 10:05:32,113 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:xml-path:4.0.0
+2019-09-04 10:05:32,119 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.4
+2019-09-04 10:05:32,123 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.2.12
+2019-09-04 10:05:32,126 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-osgi:2.2.10
+2019-09-04 10:05:32,131 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.sling:org.apache.sling.javax.activation:0.1.0
+2019-09-04 10:05:32,137 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:activation:1.1.1
+2019-09-04 10:05:33,307 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0-sources.jar
+2019-09-04 10:05:34,382 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/testng/testng/7.0.0/testng-7.0.0-sources.jar
+2019-09-04 10:05:34,413 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.0.0
+2019-09-04 10:05:34,941 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar
+2019-09-04 10:05:35,453 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar
+2019-09-04 10:05:35,485 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.1.0:no_aop
+2019-09-04 10:05:35,574 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2019-09-04 10:05:35,609 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2019-09-04 10:05:35,663 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2019-09-04 10:05:35,726 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2019-09-04 10:05:35,783 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2019-09-04 10:05:35,845 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2019-09-04 10:05:35,914 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0-sources.jar
+2019-09-04 10:05:36,569 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/google/guava/guava/19.0/guava-19.0-sources.jar
+2019-09-04 10:05:36,601 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:19.0
+2019-09-04 10:05:36,833 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:36,833 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:05:36,834 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:05:36,834 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:06:00,267 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:ApiTesting:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml.
+2019-09-04 10:06:00,363 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:06:00,473 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2019-09-04 10:06:00,513 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2019-09-04 10:06:00,573 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10.pom
+2019-09-04 10:06:00,612 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10.pom
+2019-09-04 10:06:00,705 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2019-09-04 10:06:00,777 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2019-09-04 10:06:01,322 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10.jar
+2019-09-04 10:06:01,481 [Worker-1: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10.jar
+2019-09-04 10:06:01,711 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:01,712 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:06:01,715 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:01,715 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:06:02,759 [Worker-11: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:06:02,981 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:02,981 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:06:02,983 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:02,983 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:06:03,302 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2019-09-04 10:06:03,368 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2019-09-04 10:06:03,414 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2019-09-04 10:06:05,504 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10-sources.jar
+2019-09-04 10:06:05,648 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/junit/junit/4.10/junit-4.10-sources.jar
+2019-09-04 10:06:05,683 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.10
+2019-09-04 10:06:05,918 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:05,918 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:06:05,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:06:05,919 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:06:48,657 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: APITesting:ApiTesting:0.0.1-SNAPSHOT @ C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\pom.xml.
+2019-09-04 10:06:48,751 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:06:49,386 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0.pom
+2019-09-04 10:06:49,423 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0.pom
+2019-09-04 10:06:49,875 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12.pom
+2019-09-04 10:06:49,932 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12.pom
+2019-09-04 10:06:50,402 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.pom
+2019-09-04 10:06:50,442 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.pom
+2019-09-04 10:06:50,505 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.pom
+2019-09-04 10:06:50,553 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.pom
+2019-09-04 10:06:50,918 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0.pom
+2019-09-04 10:06:50,955 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0.pom
+2019-09-04 10:06:51,218 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0.pom
+2019-09-04 10:06:51,259 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0.pom
+2019-09-04 10:06:51,616 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.pom
+2019-09-04 10:06:51,651 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.pom
+2019-09-04 10:06:52,013 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.pom
+2019-09-04 10:06:52,053 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.pom
+2019-09-04 10:06:52,614 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0.jar
+2019-09-04 10:06:54,652 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0.jar
+2019-09-04 10:06:55,069 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12.jar
+2019-09-04 10:06:55,449 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12.jar
+2019-09-04 10:06:55,918 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.jar
+2019-09-04 10:06:56,405 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.jar
+2019-09-04 10:06:56,453 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar
+2019-09-04 10:06:59,379 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar
+2019-09-04 10:06:59,948 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0.jar
+2019-09-04 10:07:02,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0.jar
+2019-09-04 10:07:03,436 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0.jar
+2019-09-04 10:07:13,911 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0.jar
+2019-09-04 10:07:14,450 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar
+2019-09-04 10:07:17,055 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar
+2019-09-04 10:07:18,055 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar
+2019-09-04 10:07:18,460 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar
+2019-09-04 10:07:18,826 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:18,826 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:07:18,827 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:18,827 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:07:19,864 [Worker-9: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-09-04 10:07:21,372 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0-sources.jar
+2019-09-04 10:07:22,653 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi/4.1.0/poi-4.1.0-sources.jar
+2019-09-04 10:07:22,686 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi:4.1.0
+2019-09-04 10:07:23,253 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:23,254 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:07:23,255 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:23,255 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:07:23,668 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12-sources.jar
+2019-09-04 10:07:23,871 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/commons-codec/commons-codec/1.12/commons-codec-1.12-sources.jar
+2019-09-04 10:07:23,921 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.12
+2019-09-04 10:07:24,898 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3-sources.jar
+2019-09-04 10:07:25,300 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3-sources.jar
+2019-09-04 10:07:25,334 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.3
+2019-09-04 10:07:26,006 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar
+2019-09-04 10:07:27,245 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar
+2019-09-04 10:07:27,277 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math3:3.6.1
+2019-09-04 10:07:28,914 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0-sources.jar
+2019-09-04 10:07:29,591 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml/4.1.0/poi-ooxml-4.1.0-sources.jar
+2019-09-04 10:07:29,626 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-ooxml:4.1.0
+2019-09-04 10:07:31,164 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-sources.jar
+2019-09-04 10:07:31,239 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-snapshot/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-sources.jar
+2019-09-04 10:07:31,463 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-sources.jar
+2019-09-04 10:07:31,644 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://central.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-sources.jar
+2019-09-04 10:07:31,652 [Worker-9: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.poi:poi-ooxml-schemas:4.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-04 10:07:32,742 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar
+2019-09-04 10:07:33,674 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0-sources.jar
+2019-09-04 10:07:33,746 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.xmlbeans:xmlbeans:3.1.0
+2019-09-04 10:07:33,756 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:33,757 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:07:33,758 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:33,758 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:07:35,301 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06-sources.jar
+2019-09-04 10:07:35,455 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/com/github/virtuald/curvesapi/1.06/curvesapi-1.06-sources.jar
+2019-09-04 10:07:35,486 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.virtuald:curvesapi:1.06
+2019-09-04 10:07:35,730 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:35,730 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:07:35,731 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:07:35,732 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:07:37,278 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-release/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-javadoc.jar
+2019-09-04 10:07:37,330 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://sbx-data-eqrs.hcqis.org:8084/artifactory/libs-snapshot/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-javadoc.jar
+2019-09-04 10:07:37,390 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-javadoc.jar
+2019-09-04 10:07:37,451 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://central.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/4.1.0/poi-ooxml-schemas-4.1.0-javadoc.jar
+2019-09-04 10:07:37,453 [Worker-0: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-schemas:4.1.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-09-04 10:09:25,886 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:09:25,886 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:09:25,888 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:09:25,888 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 10:10:00,927 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:10:00,927 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 10:10:00,931 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 10:10:00,931 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:00:38,258 [Worker-23: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:00:38,258 [Worker-23: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:00:38,262 [Worker-23: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:00:38,262 [Worker-23: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:10:53,350 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:10:53,350 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:10:53,350 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:10:53,350 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:13:17,309 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:13:17,309 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:13:17,313 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:13:17,313 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:13:56,840 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:13:56,840 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:13:56,840 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:13:56,840 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:16:30,651 [Worker-31: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:16:30,651 [Worker-31: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:16:30,652 [Worker-31: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:16:30,652 [Worker-31: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:18:09,923 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:18:09,923 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:18:09,927 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:18:09,927 [Worker-29: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:19:38,748 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:19:38,749 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:19:38,750 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:19:38,750 [Worker-30: Launching Login_API_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:36:08,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:36:08,149 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:36:08,154 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:36:08,154 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:36:36,087 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:36:36,087 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:36:36,088 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:36:36,088 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:37:06,678 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:37:06,678 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:37:06,680 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:37:06,680 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
+2019-09-04 11:55:41,793 [Worker-49: Launching Registration_Api_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:55:41,793 [Worker-49: Launching Registration_Api_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\main\resources
+2019-09-04 11:55:41,799 [Worker-49: Launching Registration_Api_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-04 11:55:41,800 [Worker-49: Launching Registration_Api_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ca2543\EQRS GLOBAL APP\ApiTesting\src\test\resources
